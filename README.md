@@ -27,10 +27,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.kapwing.com/videos/6418c750768a5e01532c1884' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVjNDM3YjFiYWYyZTk3M2NiNWIwMTI0Mzc4NzJiZGRjMTU2YTczNiZjdD1n/GvspWfqob8ngXBGuOa/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ... https://www.kapwing.com/ 
+GIF created with ... https://giphy.com/ 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
