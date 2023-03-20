@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/mariamawittadesse/Desktop/Codepath/IOS%20Development/Flixter_1/Flixter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/uc?export=download&id=1g-UlFRVB-7mYU3tYu1gAIaYVjApq6Byz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... https://getkap.co/
