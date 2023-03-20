@@ -27,10 +27,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/uc?export=download&id=1g-UlFRVB-7mYU3tYu1gAIaYVjApq6Byz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.veed.io/view/5cee0edd-ce60-462a-901d-a3ddbffcd56d?panel=share.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... https://getkap.co/
+                     https://www.veed.io/
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
